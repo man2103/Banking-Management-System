@@ -1,0 +1,5 @@
+1002,ss,current,30020.0
+1003,wqde,current,4000.0
+1004,2,Current,0.0
+1005,,current,300.0
+1006,mansi,saving,8000.0
